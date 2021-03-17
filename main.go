@@ -101,4 +101,3 @@ func (u *UserClaims) Valid() error {
 
 	return nil
 }
-
